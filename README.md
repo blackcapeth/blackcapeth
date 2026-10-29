@@ -1,16 +1,15 @@
-## Hi there 👋
+# Hi, I'm blackcap 👋
 
-<!--
-**blackcapeth/blackcapeth** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Web3 builder and onchain explorer. I build small interactive tools, simulators and games around new protocols, mostly DeFi, ZK and AI agents.
 
-Here are some ideas to get you started:
+### What I work on
+- 🧮 Protocol simulators and calculators (Standard Reserve model, ROI, mechanics)
+- 🕹️ Browser games and quizzes for crypto communities (SnarkPop, SnarkWheel, ZK Ghosts)
+- 🤖 AI agent skills and tooling (Hermes skills, Agent Skills)
+- 🧪 Testnets, nodes and early protocol experiments (FHEVM, RL Swarm, Lens)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Stack
+HTML · JavaScript · Python · Solidity basics
+
+### Find me
+- X: [@blackcap_eth](https://x.com/blackcap_eth)
